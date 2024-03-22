@@ -1,0 +1,97 @@
+.pythoncourse-page-maincard {
+    background-color: black;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+.pythoncourse-heading {
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 35px;
+}
+.pythoncourse-description {
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+}
+.pythoncourse-language {
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+.pythoncourse-card1 {
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 500px;
+    margin-left: 500px;
+}
+.pythoncourse-card1-heading {
+    font-family: Arial;
+    padding: 40px 50px 0px 50px;
+}
+.python-course-list1 {
+    font-family: arial;
+    padding: 0px 50px 40px 65px;
+}
+.list1 {
+    padding: 5px 0px 5px 0px;
+}
+.pythoncourse-card2 {
+    width: 500px;
+    margin-left: 500px;
+}
+.pythoncourse-card2-heading {
+    font-family: Arial;
+    padding: 10px 50px 0px 0px;
+}
+.python-course-list2 {
+    font-family: arial;
+    padding: 0px 50px 10px 30px;
+}
+.pythoncourse-card3 {
+    margin-left: 500px;
+}
+.pythoncourse-card3-heading {
+    font-family: Arial;
+    padding: 10px 50px 10px 0px;
+}
+.pythoncourse-card4 {
+    margin-left: 500px;
+}
+.pythoncourse-card4-heading {
+    font-family: Arial;
+    padding: 10px 50px 10px 0px;
+}
+.python-course-list4 {
+    font-family: arial;
+    padding: 0px 50px 10px 30px;
+}
+.list4 {
+    padding-bottom: 10px;
+}
+.pythoncourse-card5 {
+    margin-left: 500px;
+}
+.pythoncourse-card5-heading {
+    font-family: Arial;
+    padding: 10px 50px 10px 0px;
+}
+.pythoncourse-card2-description {
+    font-family: Arial;
+    font-size: 25px;
+    margin-right: 500px;
+}
+.pythoncourse-card6 {
+    text-align: center;
+}
+.pythoncourse-button {
+    background-color: #00539C;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    padding: 20px 50px 20px 50px;
+    margin: 10px 0px 20px 0px;
+}
