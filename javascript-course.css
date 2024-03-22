@@ -1,0 +1,97 @@
+.javascriptcourse-page-maincard {
+    background-color: yellowgreen;
+    margin-top: 50px;
+    text-align: center;
+    padding-top: 50px;
+    border-radius: 50px;
+}
+.javascriptcourse-heading {
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+    font-size: 35px;
+}
+.javascriptcourse-description {
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+}
+.javascriptcourse-language {
+    color: white;
+    font-family: arial;
+    font-size: 25px;
+    padding-bottom: 50px;
+}
+.javascriptcourse-card1 {
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 500px;
+    margin-left: 500px;
+}
+.javascriptcourse-card1-heading {
+    font-family: Arial;
+    padding: 40px 50px 0px 50px;
+}
+.javascript-course-list1 {
+    font-family: arial;
+    padding: 0px 50px 40px 65px;
+}
+.list1 {
+    padding: 5px 0px 5px 0px;
+}
+.javascriptcourse-card2 {
+    width: 500px;
+    margin-left: 500px;
+}
+.javascriptcourse-card2-heading {
+    font-family: Arial;
+    padding: 10px 50px 0px 0px;
+}
+.javascript-course-list2 {
+    font-family: arial;
+    padding: 0px 50px 10px 30px;
+}
+.javascriptcourse-card3 {
+    margin-left: 500px;
+}
+.javascriptcourse-card3-heading {
+    font-family: Arial;
+    padding: 10px 50px 10px 0px;
+}
+.javascriptcourse-card4 {
+    margin-left: 500px;
+}
+.javascriptcourse-card4-heading {
+    font-family: Arial;
+    padding: 10px 50px 10px 0px;
+}
+.javascript-course-list4 {
+    font-family: arial;
+    padding: 0px 50px 10px 30px;
+}
+.list4 {
+    padding-bottom: 10px;
+}
+.javascriptcourse-card5 {
+    margin-left: 500px;
+}
+.javascriptcourse-card5-heading {
+    font-family: Arial;
+    padding: 10px 50px 10px 0px;
+}
+.javascriptcourse-card2-description {
+    font-family: Arial;
+    font-size: 25px;
+    margin-right: 500px;
+}
+.javascriptcourse-card6 {
+    text-align: center;
+}
+.javascriptcourse-button {
+    background-color: #00539C;
+    color: white;
+    border: 0px;
+    border-radius: 10px;
+    padding: 20px 50px 20px 50px;
+    margin: 10px 0px 20px 0px;
+}
