@@ -1,0 +1,63 @@
+.heading1 {
+    font-family: Calibri;
+    font-size: 40px;
+    text-align: center;
+}
+.firstword-color1 {
+    color: #00539C;
+}
+.secondword-color1 {
+    color: #EEA47F;
+}
+.beforesignup-greeting {
+    font-family: Arial, sans-serif;
+    margin: 30px 500px;
+    text-align: center;
+    font-size: 25px;
+    color: #00539C;
+}
+.details-container {
+    text-align: center;
+}
+.email-container {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 18px;
+    padding-right: 340px;
+}
+.email-box {
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 14px 15px;
+    font-size: 20px;
+}
+.email-box:focus {
+    border-color: #00539C;
+    outline: none;
+}
+.password-container {
+    font-family: Calibri;
+    font-weight: bold;
+    font-size: 18px;
+    padding-right: 303px;
+}
+.password-box {
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    padding: 14px 15px;
+    font-size: 20px;
+}
+.password-box:focus {
+    border-color: blue;
+    outline: none;
+}
+.signup-container1 {
+    border-radius: 5px;
+    margin-top: 25px;
+    padding: 14px 160px;
+    font-size: 20px;
+    background-color: blue;
+    color: white;
+}
