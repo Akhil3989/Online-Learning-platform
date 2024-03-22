@@ -1,0 +1,27 @@
+.div1 {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px 500px;
+}
+.aftersignup-greeting {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 25px;
+    color: #00539C;
+}
+.head1 {
+    color: #3498db;
+    font-size: 40px;
+}
+
+.para1 {
+    margin-bottom: 20px;
+}
+.button-container {
+    background-color: blue;
+    color: white;
+    border-radius: 5px;
+    margin-top: 25px;
+    padding: 14px 160px;
+    font-size: 20px;
+}
