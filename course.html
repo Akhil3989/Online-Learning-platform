@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Learn Skill courses page">
+    <meta name="keywords" content="HTML,CSS,JavaScript">
+    <meta name="author" content="Varshith">
+    <link rel="stylesheet" href="course.css">
+    <title>Courses page</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous"/>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="course-maincard">
+        <h1 class="backgroundheading-coursecontainer"><strong class="firstword-color">Learn</strong> <strong class="secondword-color">Skill</strong></h1>
+        <h2 class="courses-mainheading">Dive into a world of learning with our courses, tailored for every skill level</h1>
+        <div class="background-coursecard1 d-flex flex-row justify-content-center">
+            <div class="courses-card courses-card1" onclick="python()">
+                <h1 class="course-heading1">PYTHON</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card2" onclick="html()">
+                <h1 class="course-heading1">HTML</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card3" onclick="csspage()">
+                <h1 class="course-heading1">CSS</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+        </div>
+        <div class="background-coursecard2 d-flex flex-row justify-content-center">
+            <div class="courses-card courses-card4" onclick="javascriptpage()">
+                <h1 class="course-heading1">JAVA SCRIPT</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card5" onclick="clanguage()">
+                <h1 class="course-heading1">C</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card6" onclick="javalanguage()">
+                <h1 class="course-heading1">JAVA</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+        </div>
+        <div class="background-coursecard3 d-flex flex-row justify-content-center">
+            <div class="courses-card courses-card7">
+                <h1 class="course-heading1">MARKETING</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card8">
+                <h1 class="course-heading1">PERSONALITY DEVELOPMENT</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card9">
+                <h1 class="course-heading1">VIDEO EDITING</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+        </div>
+        <div class="background-coursecard4 d-flex flex-row justify-content-center">
+            <div class="courses-card courses-card10">
+                <h1 class="course-heading1">LANGUAGE LEARNING</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card11">
+                <h1 class="course-heading1">PHOTOGRAPHY</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+            <div class="courses-card courses-card12">
+                <h1 class="course-heading1">CONTENT WRITING</h1>
+                <p class="course-para1">Explore</p>
+            </div>
+        </div>
+    </div>
+    <script>
+        function python(){
+            var newpageurl="python-course.html"
+            var newwindow=window.open("python-course.html","_blank")
+        }
+        function html(){
+            var newpageurl="html-course.html"
+            var newwindow=window.open("html-course.html","_blank")
+        }
+        function csspage(){
+            var newpageurl="css-course.html"
+            var newwindow=window.open("css-course.html","_blank")
+        }
+        function javascriptpage(){
+            var newpageurl="javascript-course.html"
+            var newwindow=window.open("javascript-course.html","_blank")
+        }
+        function clanguage(){
+            var newpageurl="c-course.html"
+            var newwindow=window.open("c-course.html","_blank")
+        }
+        function javalanguage(){
+            var newpageurl="java-course.html"
+            var newwindow=window.open("java-course.html","_blank")
+        }
+    </script>
+</body>
+</html>
